@@ -1,0 +1,49 @@
+#first_num = '5'
+#second_num = '6'
+#print(first_num + second_num)
+#print(first_num ** second_num)
+
+#days_in_feb = 28
+#print(str(days_in_feb) + ' days in February')
+
+#first_num = input ('Enter first number   ')
+#second_num = input ('Enter second number   ')
+#print(first_num + second_num)
+
+#first_num = input ('Enter first number   ')
+#second_num = input ('Enter second number   ')
+#print(int(first_num) + int(second_num))
+#print(float(first_num) + float(second_num))
+
+# pi = 3.14159
+# print(pi)
+
+# first_num = 5
+# second_num = 6
+# print(first_num ** second_num)
+
+# first_num = input('Please enter a number')
+# second_num = input('Please enter another number')
+# print(first_num ** second_num)
+
+# first_num = input('Please enter a number  ')
+# second_num = input('Please enter another number  ')
+# print(int(first_num) ** int(second_num))
+
+# days_in_February = 28
+# print(str(days_in_February) + '  total days_in_February')
+
+# age = int(input("How old are you?  "))
+# next_year_age = age + 1
+# print(f"On your next birthday, you will be {next_year_age}.")
+# #print(f"On your next birthday, you will be {age + 1}.")
+# print()
+
+# cartons = int(input("How many egg cartons do you have?  "))
+# eggs = cartons * 12
+# print(f"You have {eggs} eggs")
+
+# cookies = int(input("How many cookies do you have?   "))
+# people = int(input("How many people do you have?  "))
+# cookies_per_person = cookies / people
+# print(f"Each person can have {cookies_per_person} cookies")
