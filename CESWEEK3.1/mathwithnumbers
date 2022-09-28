@@ -1,19 +1,19 @@
-#first_num = '5'
-#second_num = '6'
-#print(first_num + second_num)
-#print(first_num ** second_num)
+# first_num = '5'
+# second_num = '6'
+# print(first_num + second_num)
+# print(first_num ** second_num)
 
-#days_in_feb = 28
-#print(str(days_in_feb) + ' days in February')
+# days_in_feb = 28
+# print(str(days_in_feb) + ' days in February')
 
-#first_num = input ('Enter first number   ')
-#second_num = input ('Enter second number   ')
-#print(first_num + second_num)
+# first_num = input ('Enter first number   ')
+# second_num = input ('Enter second number   ')
+# print(first_num + second_num)
 
-#first_num = input ('Enter first number   ')
-#second_num = input ('Enter second number   ')
-#print(int(first_num) + int(second_num))
-#print(float(first_num) + float(second_num))
+# first_num = input ('Enter first number   ')
+# second_num = input ('Enter second number   ')
+# print(int(first_num) + int(second_num))
+# print(float(first_num) + float(second_num))
 
 # pi = 3.14159
 # print(pi)
@@ -47,3 +47,12 @@
 # people = int(input("How many people do you have?  "))
 # cookies_per_person = cookies / people
 # print(f"Each person can have {cookies_per_person} cookies")
+
+side = input('What is the length of a side of the square?      ')
+area = input('The area of the square is:      ') 
+length = input('What is the length of rectangle?     ') 
+width = input('What is the width of the rectangle?     ')
+rectangle_area = input('The area of the rectangle is:     ')
+radius = input('What is the radius of the circle?     ')
+circle_area = input('The area of the circle is:     ')
+length_side_squareWhat = input('The length of a side of the square?     ')
